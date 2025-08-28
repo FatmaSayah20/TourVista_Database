@@ -1,6 +1,5 @@
 # TourVista Database
 
-
 **📌 Project Overview**
 
 TourVista is a relational database system for a tourist guide company.
